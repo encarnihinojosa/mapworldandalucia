@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-6.9430267,37.262499,0]},"properties":{"name":"Huelva (España)","description":{"@type":"html","value":"City: in<br>AccentCity: HUELVA<br>Region: 51<br>Population: 145901<br>Latitude: 37.262499<br>Longitude: -6.9430267"},"styleUrl":"#icon-1899-0288D1","icon-opacity":1,"icon-color":"#0288d1","icon-scale":1,"icon-offset":[32,64],"icon-offset-units":["pixels","insetPixels"],"icon":"https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png","City":"in","AccentCity":"HUELVA","Region":"51.0","Population":"145901.0","Latitude":"37.262499","Longitude":"-6.9430267"}}
+]}
